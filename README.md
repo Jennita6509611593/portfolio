@@ -1,8 +1,8 @@
-### Data Analyst / Data Scientist
+## Data Analyst / Data Scientist
 
-### Technical Skills :
+## Technical Skills :
 Power Bi, Looker Studio, MySQL, Microsoft Excel, Trello, Figma, Wordpress
-### Programming Languages :
+## Programming Languages :
 C, C++, Python, SQL, HTML, CSS, JavaScript
 
 ## Previous Projects :
