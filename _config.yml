@@ -1,5 +1,7 @@
 title: Jennita Suttisaksunthron
-logo: /portfolio/logo/logo.png
+baseurl: /portfolio
+logo: {{ site.baseurl }}/portfolio/logo/logo.png
+#logo: /portfolio/logo/logo.png
 description: Bachalor’s Degree student in 3rd year Computer Science Faculty of Science and Technology Thammasat University
 #show_download: true
 theme: jekyll-theme-minimal
