@@ -30,4 +30,4 @@ C, C++, Python, SQL, HTML, CSS, JavaScript
 - A website for managing a comic book rental store. In this group project, I worked on database design and management as well as the frontend.
 
 ## Inprocess Projects : 
-Redesign and improve the CSTU website
+### Redesign and improve the CSTU website
