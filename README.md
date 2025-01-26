@@ -4,10 +4,12 @@ Power Bi, Looker Studio, MySQL, Microsoft Excel, Trello, Figma, Wordpress
 ### Programming Languages :
 C, C++, Python, SQL, HTML, CSS, JavaScript
 ## Previous Projects :
+
 ### Data visualization project
 **[Project link](https://colab.research.google.com/drive/1l18FC5i3W6FiKwGUWxbgNGWigRGiIbXh?authuser=1#scrollTo=4WgmrDOxW54U)**
 **[Dashboard link](https://lookerstudio.google.com/u/1/reporting/15857fed-c590-47dc-88d1-dae76991f052/page/KW2wD)**
 - Collect data on dormitory living experiences and issues faced while residing in dormitories at Thammasat University from 120 students. Handle data inconsistencies, analyze the data, and visualize the results.
+  
 ### Machine learning project
 #### Prediction contraceptive method using SVM
 **[Project link](https://colab.research.google.com/drive/1ML9OK8giR9WgNIitJIGTCoD6g0W0GYPU?authuser=1#scrollTo=exouBdZvTIhb)**
