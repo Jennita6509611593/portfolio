@@ -28,3 +28,6 @@ C, C++, Python, SQL, HTML, CSS, JavaScript
 #### Comic rental shop project
 **[Project link](https://github.com/paveewuth/CS251_Term_Project)**
 - A website for managing a comic book rental store. In this group project, I worked on database design and management as well as the frontend.
+
+## Inprocess Projects : 
+Redesign and improve the CSTU website
