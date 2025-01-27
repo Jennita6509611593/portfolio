@@ -4,6 +4,9 @@
 Power Bi, Looker Studio, MySQL, Microsoft Excel, Trello, Figma, Wordpress
 ## Programming Languages :
 C, C++, Python, SQL, HTML, CSS, JavaScript
+## Languages :
+- Thai
+- English (TOEIC: 900)
 
 ## Previous Projects :
 
